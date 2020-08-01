@@ -1,3 +1,4 @@
 # lift_controller
-controlling 16-level-lift
-the project is for 2020 Xilinx summer school
+Controlling 16-level-lift;
+Based on Basys3;
+The project is for 2020 Xilinx summer school
